@@ -1,0 +1,8 @@
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\KitaplıkUygulaması\KitaplıkUygulaması\obj\Debug\KitaplıkUygulaması.csproj.AssemblyReference.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\KitaplıkUygulaması\KitaplıkUygulaması\obj\Debug\KitaplıkUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\KitaplıkUygulaması\KitaplıkUygulaması\obj\Debug\KitaplıkUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\KitaplıkUygulaması\KitaplıkUygulaması\bin\Debug\KitaplıkUygulaması.exe.config
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\KitaplıkUygulaması\KitaplıkUygulaması\bin\Debug\KitaplıkUygulaması.exe
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\KitaplıkUygulaması\KitaplıkUygulaması\bin\Debug\KitaplıkUygulaması.pdb
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\KitaplıkUygulaması\KitaplıkUygulaması\obj\Debug\KitaplıkUygulaması.exe
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\KitaplıkUygulaması\KitaplıkUygulaması\obj\Debug\KitaplıkUygulaması.pdb
